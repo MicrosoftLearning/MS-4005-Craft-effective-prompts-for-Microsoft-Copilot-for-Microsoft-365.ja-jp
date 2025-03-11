@@ -1,18 +1,20 @@
-Microsoft 365 Business Chat は、人工知能 (AI) の力を仕事用データやアプリと組み合わせて、創造性を解き放ち、生産性を引き出し、スキルを向上させます。 複数のアプリやコンテンツで動作し、AI の力とセキュリティで保護された作業データを提供します。 一度に情報を合成し、複数のソースから物を作成する能力により、より広範な目標と目標に取り組むことができます。
+# Microsoft 365 Copilot Chat を使用して、新しいアイデア、リスト、レポートをブレーンストーミングする
 
-比較するために、異なる Microsoft 365 アプリ (Word や PowerPoint など) の Copilot は、**その 1 つのアプリ内**で役立つよう特別に調整されています。 たとえば、Word の Copilot は、コンテンツの下書き、編集、使用を改善するために設計されています。 PowerPoint では、より優れたプレゼンテーションを作成するのに役立ちます。 しかし、Business Chat では、すべてを新しいエクスペリエンスに引き込むことができます。
+Microsoft 365 Copilot Chat (Copilot Chat) は、人工知能 (AI) の力と仕事用データとアプリを組み合わせて、創造性を解き放ち、生産性を引き出し、スキルを向上させます。 複数のアプリやコンテンツで動作し、AI の力とセキュリティで保護された作業データを提供します。 一度に情報を合成し、複数のソースから物を作成する能力により、より広範な目標と目標に取り組むことができます。
 
-Business Chat には、いくつかの方法でアクセスできます。
+比較するために、異なる Microsoft 365 アプリ (Word や PowerPoint など) の Copilot は、**その 1 つのアプリ内**で役立つよう特別に調整されています。 たとえば、Word の Copilot は、コンテンツの下書き、編集、使用を改善するために設計されています。 PowerPoint では、より優れたプレゼンテーションを作成するのに役立ちます。 しかし、Copilot Chat では、すべてを新しいエクスペリエンスに引き込むことができます。
 
-- Microsoft Teams のデスクトップ バージョンおよびモバイル バージョンで Copilot を使用します。 「[Teams で Microsoft 365 Business Chat を使用する](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)」を参照してください
+Copilot Chat には、いくつかの方法でアクセスできます。
 
-- Microsoft.com/copilot で Microsoft 365 Business Chat にアクセスします。 「[Microsoft.com/Copilot で Microsoft 365 Business Chat を使用する](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)」を参照してください
+- Microsoft Teams のデスクトップ バージョンおよびモバイル バージョンで Copilot を使用します。 「[Teams で Copilot Chat を使用する](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)」を参照してください。
 
-![Teams での Copilot チャット エクスペリエンスのスクリーンショット](../media/copilot-chat-experience-teams.png)
+- Microsoft.com/Copilot で Copilot Chat にアクセスします。 「[Microsoft365.com/copilot で Copilot Chat を使用する](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)」を参照してください。
+
+![Microsoft Teams での Copilot Chat エクスペリエンスのスクリーンショット。](../media/create_copilot-chat-experience-teams.png)
 
 ## 作成方法を見てみましょう
 
-前のユニットの **Contoso CipherGuard Product Specification.docx** を使用して、Teams の Business Chat を開き、次のプロンプトで作業します。
+前のユニットの **Contoso CipherGuard Product Specification.docx** を使用して、Teams の Copilot Chat を開き、次のプロンプトで作業します。
 
 > [!NOTE]
 > 開始プロンプト:
@@ -23,17 +25,17 @@ Business Chat には、いくつかの方法でアクセスできます。
 
 | 要素 | 例 |
 | :------ | :------- |
-| 基本プロンプト: <br>**目標**から開始 | **_会議の議題を作成します。_** |
-| 適切なプロンプト: <br>**コンテキスト**の追加 | **コンテキスト**を追加すると、会議を呼び出す理由と話し合う内容を Copilot が理解するのに役立ちます。<br><br>「_...プロジェクトの目標、ミッション ステートメント、スケジュールされた完了日など、クライアント会議が 1 時間続く場合。_」 |
-| 改善したプロンプト: <br>**ソース**の指定 | **ソース** を追加すると、Copilot が特定の情報を検索する場所を把握するのに役立ちます。<br><br>「_**/Contoso CipherGuard Product Specification.docx** の情報を使用して、未解決の項目と未回答の質問を探します。_」 |
-| 最適なプロンプト: <br>明確な**期待**を設定する | 最後に、**期待**を追加すると、ドキュメントがどのような書式でどのように書かれるのが望まれるのかを Copilot が把握できるようになります。<br><br>「_議題は時間割り当てを含むテーブル形式にする必要があり、最後には必ず参加者が質問できるようにする必要があります。_」 |
+| **基本的なプロンプト:** **目標**から開始 | **_会議の議題を作成します。_** |
+| **適切なプロンプト:** **コンテキスト**の追加 | **コンテキスト**を追加すると、会議を招集する理由と話し合う内容を Copilot が理解できるようになります。 _「...プロジェクトの目標、ミッション ステートメント、完了予定日などが議題のクライアント会議が 1 時間続く場合。」_ |
+| **プロンプトの改善:** **ソースの指定** | **ソース** を追加すると、Copilot が特定の情報を検索する場所を把握するのに役立ちます。 _「**/Contoso CipherGuard Product Specification.docx** の情報を使用して、未解決の項目と未回答の質問を探します。」_ |
+| **最適なプロンプト:** 明確な**期待**の設定 | 最後に、**期待**を追加すると、ドキュメントがどのような書式でどのように書かれるのが望まれるのかを Copilot が把握できるようになります。 _「議題は時間割り当てを含む表形式にする必要があり、会議の最後には参加者に質問をする機会を与える必要があります。」_ |
 
 > [!NOTE]
 > **作成されたプロンプト**:
 >
 > _プロジェクトの目標、ミッション ステートメント、スケジュールされた完了日など、クライアント会議が 1 時間続く会議の議題を作成します。**/Contoso CipherGuard Product Specification.docx** の情報を使用して、未解決の項目と未回答の質問を探します。議題は、時間の割り当てを含む表形式にする必要があり、最後に質問する機会を参加者に与える必要があります。_
 
-[![Teams のCopilot でグラフ支援チャットを使用して、サンプル ドキュメントに対して作成されたプロンプトの結果をスクリーンショットします。](../media/copilot-chat-draft-agenda-teams.png)](../media/copilot-chat-draft-agenda-teams.png#lightbox)
+![Teams で Copilot Chat を使用してサンプル ドキュメントに対して作成されたプロンプトの結果のスクリーンショット。](../media/create_copilot-chat-draft-agenda-teams.png)
 
 議題を確認し、調整や絞り込みを行い、Teams で会議出席依頼に追加します。
 
@@ -44,7 +46,7 @@ Business Chat には、いくつかの方法でアクセスできます。
 > [!IMPORTANT]
 > 参照しているファイルにアクセスするには、組織の SharePoint と OneDrive のいずれにあっても、そして Word ファイル、Excel ファイル、PowerPoint ファイルのいずれであっても、アクセス許可が必要です。
 
-## さらに探索する
+## さらに探索
 
 試すプロンプトに関するいくつかの提案を次に示します。 コピーするか、必要に応じて修正します。
 
@@ -60,4 +62,4 @@ Business Chat には、いくつかの方法でアクセスできます。
 
 - [プロジェクト] の次のマイルストーンは何ですか? リスクはありますか? いくつかの可能性のある軽減方法の一覧をブレーンストーミングするのに役立たせます。
 
-- [別のファイル] のタイムラインを含む [ファイル] のスタイルで計画の概要を記述し、[人物] のメールにプロジェクト リストを組み込みます。 
+- [別のファイル] のタイムラインを含む [ファイル] のスタイルで計画の概要を記述し、[人物] のメールにプロジェクト リストを組み込みます。
