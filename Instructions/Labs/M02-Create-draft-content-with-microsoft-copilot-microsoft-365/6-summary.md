@@ -1,4 +1,6 @@
-このモジュールでは、Word、PowerPoint、Outlook、Microsoft 365 Chat などのさまざまな Microsoft アプリケーションで Copilot を使用する方法について説明しました。 Word では、リボンの [ホーム] タブから [Copilot] ウィンドウを開いたり、ドキュメントに直接書き込みを開始して新しいコンテンツを生成したりできます。 PowerPointでは、Copilot がプレゼンテーションのコンテンツを入力することで、スライドの作成、デザイン、書式設定を支援します。 Outlook では、Copilot がメールをすばやく下書きし、長いメール スレッドを要約することで、受信トレイの管理とメールの作成を支援します。 最後に、Microsoft 365 Business Chat は、作業データやアプリと統合して、創造性、生産性、スキル開発を強化します。
+# まとめ
+
+このモジュールでは、Word、PowerPoint、Outlook、Microsoft 365 Chat などのさまざまな Microsoft アプリケーションで Copilot を使用する方法について説明しました。 Word では、リボンの [ホーム] タブから [Copilot] ウィンドウを開いたり、ドキュメントに直接書き込みを開始して新しいコンテンツを生成したりできます。 PowerPointでは、Copilot がプレゼンテーションのコンテンツを入力することで、スライドの作成、デザイン、書式設定を支援します。 Outlook では、Copilot がメールをすばやく下書きし、長いメール スレッドを要約することで、受信トレイの管理とメールの作成を支援します。 最後に、Microsoft 365 Copilot Chat は、作業データやアプリと統合して、創造性、生産性、スキル開発を強化します。
 
 このモジュールでは主に次のことを学習しました。
 
@@ -8,7 +10,7 @@
 
 1. Copilot は、新しいドキュメントやプレゼンテーションの基になるファイルを最大 3 つまで参照できますが、それらのファイルにアクセスする権限があることを確認してください。権限がなければ、Copilot もそれらにアクセスできません。
 
-## 主要リソース
+## 重要なリソース
 
 - [Word で Copilot でコンテンツの下書きと追加を行う](https://support.microsoft.com/office/draft-and-add-content-with-copilot-in-word-069c91f0-9e42-4c9a-bbce-fddf5d581541)
 
@@ -18,4 +20,4 @@
 
 - [Outlook の Copilot でメール メッセージを下書きする](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)
 
-- [Microsoft365.com/Copilot で Microsoft 365 Business Chat を使用する](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- [Microsoft365.com/Copilot で Microsoft 365 Copilot Chat を使用する](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
